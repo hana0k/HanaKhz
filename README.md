@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFvMmwxbHM1YmltazFzMzE4emNmZHI4Ymc0bndpdnhpdG8zZm5ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.webp">
 
 
-- 🌱 I’m currently learning **..** ...
+- 🌱I am currently studying cybersecurity, an introduction to artificial intelligence, academic English, and web development
 <h4>SCHOOL 📚:</h4>
 Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures,Networking and cloud computing, Operating Systems, Software Testing
 
