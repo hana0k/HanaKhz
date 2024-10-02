@@ -2,7 +2,7 @@
 <h1 align="center">Hey! My name is Hana</h1>
 <h3 align="center">..</h3>
 
-<img align="right" alt="coding" width="300" src= http://fifa-rager.tumblr.com/post/50709230350
+<img align="right" alt="coding" width="300" src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFvMmwxbHM1YmltazFzMzE4emNmZHI4Ymc0bndpdnhpdG8zZm5ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.webp"
 
 - 🌱 I’m currently learning **..** ...
 <h4>SCHOOL 📚:</h4>
